@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300665272377",
+    "project_id": "demoapp-3b1c5",
+    "storage_bucket": "demoapp-3b1c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300665272377:android:d4a4904474e9ecf34fb5e8",
+        "android_client_info": {
+          "package_name": "com.rndemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300665272377-gpp1d9ulgdmadq521gpgk2l36mr99nqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF9jFe_UDMDVQCh9ztczW9ZT7DB_H7l-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300665272377-gpp1d9ulgdmadq521gpgk2l36mr99nqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
